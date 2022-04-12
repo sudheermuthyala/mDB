@@ -8,3 +8,4 @@
 ## MongoDb Shell VS MongoDB sever
 - once we install mongoDB we will get  MongoDB shell & MongoDB Server this are JAVA scripted based Applications.
 
+## What is the Role for Monf=goDb 
