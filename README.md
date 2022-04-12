@@ -21,5 +21,5 @@
     U ---> UPDATE
     D ---> DELETE
 ```
-## Remote/Local server
+## What is Remote/Local server
 - MongoDB server 
