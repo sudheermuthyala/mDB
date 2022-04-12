@@ -32,4 +32,4 @@
 ```
 ## MongoDB Driver
 
-From Application (java,c#,Python Etc) we want to communicate with Datebase,some special soft 
+From Application (java,c#,Python Etc) we want to communicate with Datebase,some special software is  
