@@ -23,4 +23,4 @@
 ```
 ## What is Remote/Local server
 - MongoDB server can be either Local or remote.
-- Using MongoDB shell we can connect and perfomongoDB server (Local or Remote)
+- Using MongoDB shell we can connect and perform required operations mongoDB server (Local or Remote)
