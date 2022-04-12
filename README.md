@@ -5,4 +5,3 @@
 - Logical/Virtual Databases     --> contain several Collections
 - Collections/Table             --> Conntains Several Documents/Records
 ```
---> klm
