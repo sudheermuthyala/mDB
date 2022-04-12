@@ -22,4 +22,4 @@
     D ---> DELETE
 ```
 ## Remote server
-- mongidb
+- MongoDB 
