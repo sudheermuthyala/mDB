@@ -1,3 +1,3 @@
 ## MongoDB
 
-- Database --> Virtual Databases --> Collections --> Documents/record 
+- Physical Database --> LogicalVirtual Databases --> Collections --> Documents/record 
