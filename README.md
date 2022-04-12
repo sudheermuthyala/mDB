@@ -6,4 +6,4 @@
 - Collections/Table             --> Conntains Several Documents/Records
 ```
 ## MongoDb Shell VS MongoDB sever
-- once we install mongoDB we will get  MongoDB 
+- once we install mongoDB we will get  MongoDB shell & MongoDB
