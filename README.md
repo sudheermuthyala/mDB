@@ -18,4 +18,5 @@
 ```t
     C ---> CREATE
     R ---> RETRIEVE
+    U ---> UP
 ```
