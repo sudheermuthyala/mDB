@@ -18,5 +18,6 @@
 ```t
     C ---> CREATE
     R ---> RETRIEVE
-    U ---> UP
+    U ---> UPDATE
+    D
 ```
