@@ -19,5 +19,5 @@
     C ---> CREATE
     R ---> RETRIEVE
     U ---> UPDATE
-    D
+    D ---> DELETE
 ```
