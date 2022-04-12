@@ -17,5 +17,5 @@
 ## What is a CRUD
 ```t
     C ---> CREATE
-    R --->
+    R ---> RETRIEVE
 ```
