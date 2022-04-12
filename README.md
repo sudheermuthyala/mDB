@@ -26,4 +26,5 @@
 - Using MongoDB shell we can connect mongoDB server(Local or Remote) and perform required operations 
 
 ## MongoDB Commands
+```t
 - To Start/Launch  MongoDB Server ------>  
