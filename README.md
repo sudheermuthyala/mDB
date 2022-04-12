@@ -5,4 +5,4 @@
 - Logical/Virtual Databases     --> contain several Collections
 - Collections/Table             --> Conntains Several Documents/Records
 ```
-MongoDb Shell sever
+MongoDb Shell VS MongoDB sever
