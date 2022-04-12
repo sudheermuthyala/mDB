@@ -28,7 +28,7 @@
 ## MongoDB Commands
 ```t
 1. To Start/Launch  MongoDB Server ------>  **mongod** Command
-2. To Start/Launch  MongoDB Shell ------>  **mongo**
+2. To Start/Launch  MongoDB Shell ------>  **mongo** Command
 
 
 
