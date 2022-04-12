@@ -1,3 +1,3 @@
 ## MongoDB
 
-Database --> Virtual Databases -->Co
+Database --> Virtual Databases --> Collections/
