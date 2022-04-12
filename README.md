@@ -1,3 +1,3 @@
 ## MongoDB
 
-Database --> Virtual Databases --> Collections --> 
+Database --> Virtual Databases --> Collections --> Documents/recods
