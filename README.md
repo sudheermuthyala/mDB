@@ -22,4 +22,4 @@
     D ---> DELETE
 ```
 ## What is Remote/Local server
-- MongoDB server can be either
+- MongoDB server can be either Local or remote
