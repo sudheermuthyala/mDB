@@ -16,6 +16,6 @@
 - By using  this shell  we can perform All requried CRUD Operations 
 ## What is a CRUD
 ```t
-    C   -> CREATE
-    R
+    C ---> CREATE
+    R --->
 ```
