@@ -29,7 +29,12 @@
 ```t
 1. To Start/Launch  MongoDB Server ------>  **mongod** Command
 2. To Start/Launch  MongoDB Shell  ------>  **mongo** Command
+
+
 ```
+## Creating Data Directory
+- cretate a directory in c:\\data\\db\\
+- mongod --dbpath "c:\data\db"
 ## MongoDB Drivers
 From Application (java,c#,Python Etc) we want to communicate with Datebase,some special software must be required, Which is nothing but Driver Software.
 
@@ -70,8 +75,24 @@ From Application (java,c#,Python Etc) we want to communicate with Datebase,some 
 ## Creation of Database and Collection
 1. Database won't be created at the beginning and it will be created Dynamically.
 2. When ever we are creating collection or inserting Document Then database will be created Dynamically
+
 ## How to create Collection/table ?
-- db.createCollection("NAME_OF_THE_COLLECTION/table") 
+- db.createCollection("NAME_OF_THE_COLLECTION/table")
+- db.createCollection("sudheer")
+- db.createCollection("student")
+
+## How to show the collections ?
+- show collections
+
+## How to use DB 
+- use sudheer (Hear sudheer is a database name and use command will swithch to sudheer DB)
+- it's always going to talk with current Database 
+
+## NOTE: 
+- when we need to create a db first we need to use command `use` command `EX: use sudheer` this will not not create any DB visually, When ever we are creating collection or inserting Document Then database will be created Dynamically
+## How it understand to create collection in a 
+
+
 
     
 
