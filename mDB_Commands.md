@@ -1,14 +1,14 @@
 ## Commands
-## How to show DB
+## 1. How to show DB
 - show dbs
-## To switch the DB
+## 2. To switch the DB
 - use DB-name
-## To Create Collections 
+## 3. To Create Collections 
 - db.createCollection("employes")
 - db.createCollection("sudheer")
-## How to show the collections 
+## 4. How to show the collections 
 - show collections
-## How to drop/delete collection/table
+## 5. How to drop/delete collection/table
 - db.collection-name.drop()
 - **Example :** db.sudheer.drop() 
 ## Example of CLI How to drop/delete collection/table
@@ -36,7 +36,18 @@ true
 >
 
 ```
-## How to drop Database ?
+## 6. How to drop Database ?
 - db.dropDatabase() 
 - no need to give DB name, Current Database will be deleted 
+- when you need to drop a DB you need to switch that DB first then only you can drop the current DB
 - **Example :**  db.dropDatabase()
+```t
+> show dbs
+admin   0.000GB
+config  0.000GB
+local   0.000GB
+> db.dropDatabase()
+{ "dropped" : "sudheer", "ok" : 1 }
+>
+```
+
