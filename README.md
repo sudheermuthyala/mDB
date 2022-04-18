@@ -84,7 +84,7 @@ From Application (java,c#,Python Etc) we want to communicate with Datebase,some 
 ## How to show the collections ?
 - show collections
 
-## How to use DB 
+## How to use DB [Commands](https://github.com/sudheermuthyala/mDB/blob/main/mDB_Commands.md)
 - use sudheer (Hear sudheer is a database name and use command will swithch to sudheer DB)
 - it's always going to talk with current Database 
 
