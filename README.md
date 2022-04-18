@@ -83,15 +83,17 @@ From Application (java,c#,Python Etc) we want to communicate with Datebase,some 
 
 ## How to show the collections ?
 - show collections
+- [Command](https://github.com/sudheermuthyala/mDB/blob/main/mDB_Commands.md)
 
-## How to use DB [Commands](https://github.com/sudheermuthyala/mDB/blob/main/mDB_Commands.md)
+## How to use DB 
 - use sudheer (Hear sudheer is a database name and use command will swithch to sudheer DB)
 - it's always going to talk with current Database 
 
 ## NOTE: 
 - when we need to create a db first we need to use command `use` command `EX: use sudheer` this will not not create any DB visually, When ever we are creating collection or inserting Document Then database will be created Dynamically
-## How it understand to create collection in a 
 
+
+## Basic CRED operations
 
 
     
