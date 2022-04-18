@@ -52,7 +52,26 @@ From Application (java,c#,Python Etc) we want to communicate with Datebase,some 
     - In MongoDb it will Stored in BSON form. 
 **NOTE :** 
 1. In javascript only 6 data Types are avillable **`String,Number,Object,Array,Boolean,Null`**. but BSON provides some extra types also like **`32-Bit integer NumberInt,Object,Date,etc`**
-2. BSON required less memory **If Json-->10KB, But BSON-->5KB**
+2.  Efficent storage and Extra data types are  speciality of BSON over JSON
+3. BSON required less memory **If Json-->10KB, But BSON-->5KB**
+## Retriving The Data
+1. AT the time of retriv operation if i show **BSON** Directley then it is the probleam, If i show **JSON** then again it is the probleam. BSON have some extra DataTypes those Data Types are not supported by Json for example **`32-Bit integer NumberInt,Object,Date,etc`**
+2. At the Time of retrivel some support must be required, some Human understandable form is required for the BSON
+3. That HumanUnderstandable Form is **EJSON**(EXTENDED JSON)
+4. At the time of Retrival BSON will converted to EJSON Form Understanding Purpose
+5. Insertion of Docment/Creation---> **JSOM** to **BSON**
+6. Read Operation/Retrieval Operation **BSON** to **EJSON**
+
+## What are the data formats used in MongoDB ?
+1. JSON
+2. BSON
+3. EJSON
+
+## Creation of Database and Collection
+1. Database won't be created at the beginning and it will be created Dynamically.
+2. When ever we are creating collection or inserting Document Then database will be created Dynamically
+## How to create Collection/table ?
+- db.createCollection("NAME_OF_THE_COLLECTION/table") 
 
     
 
