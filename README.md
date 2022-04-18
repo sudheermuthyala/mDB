@@ -36,10 +36,10 @@ From Application (java,c#,Python Etc) we want to communicate with Datebase,some 
 ## session-3
 
 ## Default Databases in MongoDB
-1. **admin : **  
+1. **admin :**  
    - Admin Data base is used to store user authentication and Authorization information like username,password,role etc
    - This Database isused by administrators while `creating,deleting,and updating` the users and while assigning roles
-2. **config : ** 
+2. **config :** 
    - To Store the Configuration information of MongoDb server.
 3. **Local :** 
    - Local Database can be used by Admini while performing replication process
