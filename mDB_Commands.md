@@ -50,4 +50,5 @@ local   0.000GB
 { "dropped" : "sudheer", "ok" : 1 }
 >
 ```
-
+## 7. Which current Database you are in ?
+- db.getName()
